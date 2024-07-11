@@ -5,7 +5,7 @@
 
 ## :rocket: Sobre o projeto
 
-Praticando alguns conceitos de Javascript que estudei eu desenvolvi esse projetinho pessoal que funciona como uma biblioteca virtual.
+Praticando alguns conceitos de Javascript que estudei eu desenvolvi esse projeto que funciona como uma biblioteca virtual.
 Nele é possível cadastrar os seguintes dados sobre os livros:
 - Nome do livro;
 - Autor;
